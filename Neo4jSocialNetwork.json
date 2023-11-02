@@ -1,0 +1,158 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Birdie Baddie",
+        "email": "birdiebaddie@gmail.com"
+      },
+      "elementId": "0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Camilla Cornwall",
+        "email": "camillacornwall@gmail.com"
+      },
+      "elementId": "1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Damian Denysenko",
+        "email": "damiandenysenko@gmail.com"
+      },
+      "elementId": "2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Elvina Zhuk",
+        "email": "elvinazhuk@gmail.com"
+      },
+      "elementId": "3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Zoriana Zaichenko",
+        "email": "zorianazaichenko@gmail.com"
+      },
+      "elementId": "4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hafiia Hnidenko",
+        "email": "hafiiahnidenko@gmail.com"
+      },
+      "elementId": "5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Oriiana Omelko",
+        "email": "oriianaomelko@gmail.com"
+      },
+      "elementId": "6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Taisiia Telbukh",
+        "email": "taisiiatelbukh@gmail.com"
+      },
+      "elementId": "7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Melanii Melnyk",
+        "email": "melaniimelnyk@gmail.com"
+      },
+      "elementId": "8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Klyment Koval",
+        "email": "klymentkoval@gmail.com"
+      },
+      "elementId": "9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Theofii Tkach",
+        "email": "theofiitkach@gmail.com"
+      },
+      "elementId": "10"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Alice Arisu",
+        "email": "alicearisu@gmail.com"
+      },
+      "elementId": "12"
+    }
+  }
+]
