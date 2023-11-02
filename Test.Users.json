@@ -1,0 +1,298 @@
+[{
+  "_id": {
+    "$oid": "653121ef9514dfe6f7a4b7b9"
+  },
+  "firstName": "Elvina",
+  "lastName": "Zhuk",
+  "email": "elvinazhuk@gmail.com",
+  "password": "ElvinaZhukPass",
+  "interests": [
+    "programming",
+    "video editing",
+    "tennis"
+  ],
+  "subscribers": [
+    "653127989514dfe6f7a4b7bd",
+    "653129db9514dfe6f7a4b7bf"
+  ],
+  "following": [
+    "653126de9514dfe6f7a4b7bc",
+    "6531281c9514dfe6f7a4b7be",
+    "65312d2a9514dfe6f7a4b7c3",
+    "65312d9a9514dfe6f7a4b7c4"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653122ed9514dfe6f7a4b7ba"
+  },
+  "firstName": "Zoriana",
+  "lastName": "Zaichenko",
+  "email": "zorianazaichenko@gmail.com",
+  "password": "ZorianaZaichenkoPass",
+  "interests": [
+    "hiking",
+    "archery",
+    "exercising"
+  ],
+  "subscribers": [
+    "653126de9514dfe6f7a4b7bc",
+    "653127989514dfe6f7a4b7bd",
+    "653129db9514dfe6f7a4b7bf"
+  ],
+  "following": [
+    "6531281c9514dfe6f7a4b7be",
+    "65312e019514dfe6f7a4b7c5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653126de9514dfe6f7a4b7bc"
+  },
+  "firstName": "Alice",
+  "lastName": "Arisu",
+  "email": "alicearisu@gmail.com",
+  "password": "AliceArisuPass",
+  "interests": [
+    "archery",
+    "writing"
+  ],
+  "subscribers": [
+    "653121ef9514dfe6f7a4b7b9",
+    "653127989514dfe6f7a4b7bd",
+    "65312d9a9514dfe6f7a4b7c4",
+    "65312e019514dfe6f7a4b7c5"
+  ],
+  "following": [
+    "6531281c9514dfe6f7a4b7be",
+    "653129db9514dfe6f7a4b7bf",
+    "653122ed9514dfe6f7a4b7ba",
+    "65312c969514dfe6f7a4b7c2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653127989514dfe6f7a4b7bd"
+  },
+  "firstName": "Birdie",
+  "lastName": "Baddie",
+  "email": "birdiebaddie@gmail.com",
+  "password": "BirdieBaddiePass",
+  "interests": [
+    "writing",
+    "dancig",
+    "drawing"
+  ],
+  "subscribers": [
+    "6531281c9514dfe6f7a4b7be",
+    "65312d2a9514dfe6f7a4b7c3",
+    "653129db9514dfe6f7a4b7bf"
+  ],
+  "following": [
+    "653126de9514dfe6f7a4b7bc",
+    "653129db9514dfe6f7a4b7bf",
+    "653121ef9514dfe6f7a4b7b9",
+    "653122ed9514dfe6f7a4b7ba"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6531281c9514dfe6f7a4b7be"
+  },
+  "firstName": "Camilla",
+  "lastName": "Cornwall",
+  "email": "camillacornwall@gmail.com",
+  "password": "CamillaCornwallPass",
+  "interests": [
+    "gaming",
+    "cooking",
+    "travelling"
+  ],
+  "subscribers": [
+    "653126de9514dfe6f7a4b7bc",
+    "653129db9514dfe6f7a4b7bf",
+    "653121ef9514dfe6f7a4b7b9",
+    "653122ed9514dfe6f7a4b7ba",
+    "65312c969514dfe6f7a4b7c2"
+  ],
+  "following": [
+    "65312c969514dfe6f7a4b7c2",
+    "653127989514dfe6f7a4b7bd",
+    "653129db9514dfe6f7a4b7bf",
+    "65312d2a9514dfe6f7a4b7c3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653129db9514dfe6f7a4b7bf"
+  },
+  "firstName": "Damian",
+  "lastName": "Denysenko",
+  "email": "damiandenysenko@gmail.com",
+  "password": "DamianDenysenkoPass",
+  "interests": [
+    "writing",
+    "sewing",
+    "drawing",
+    "sewing"
+  ],
+  "subscribers": [
+    "6531281c9514dfe6f7a4b7be",
+    "653126de9514dfe6f7a4b7bc",
+    "653127989514dfe6f7a4b7bd",
+    "65312b499514dfe6f7a4b7c0"
+  ],
+  "following": [
+    "65312d2a9514dfe6f7a4b7c3",
+    "653127989514dfe6f7a4b7bd",
+    "6531281c9514dfe6f7a4b7be",
+    "653121ef9514dfe6f7a4b7b9",
+    "653122ed9514dfe6f7a4b7ba"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65312b499514dfe6f7a4b7c0"
+  },
+  "firstName": "Hafiia",
+  "lastName": "Hnidenko",
+  "email": "hafiiahnidenko@gmail.com",
+  "password": "HafiiaHnidenkoPass",
+  "interests": [
+    "exercising",
+    "programming",
+    "video editing"
+  ],
+  "subscribers": [
+    "65312c209514dfe6f7a4b7c1",
+    "65312c969514dfe6f7a4b7c2",
+    "65312d9a9514dfe6f7a4b7c4"
+  ],
+  "following": [
+    "65312e019514dfe6f7a4b7c5",
+    "653129db9514dfe6f7a4b7bf",
+    "65312c209514dfe6f7a4b7c1"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65312c209514dfe6f7a4b7c1"
+  },
+  "firstName": "Oriiana",
+  "lastName": "Omelko",
+  "email": "oriianaomelko@gmail.com",
+  "password": "OriianaOmelkoPass",
+  "interests": [
+    "tennis",
+    "badminton",
+    "filmmaking"
+  ],
+  "subscribers": [
+    "65312b499514dfe6f7a4b7c0",
+    "65312d2a9514dfe6f7a4b7c3",
+    "65312e019514dfe6f7a4b7c5"
+  ],
+  "following": [
+    "65312b499514dfe6f7a4b7c0",
+    "65312d9a9514dfe6f7a4b7c4",
+    "65312e019514dfe6f7a4b7c5"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65312c969514dfe6f7a4b7c2"
+  },
+  "firstName": "Taisiia",
+  "lastName": "Telbukh",
+  "email": "taisiiatelbukh@gmail.com",
+  "password": "TaisiiaTelbukhPass",
+  "interests": [
+    "archery",
+    "exercising",
+    "programming",
+    "cooking"
+  ],
+  "subscribers": [
+    "6531281c9514dfe6f7a4b7be",
+    "653126de9514dfe6f7a4b7bc",
+    "65312d2a9514dfe6f7a4b7c3"
+  ],
+  "following": [
+    "6531281c9514dfe6f7a4b7be",
+    "65312b499514dfe6f7a4b7c0"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65312d2a9514dfe6f7a4b7c3"
+  },
+  "firstName": "Melanii",
+  "lastName": "Melnyk",
+  "email": "melaniimelnyk@gmail.com",
+  "password": "MelaniiMelnykPass",
+  "interests": [
+    "video editing",
+    "tennis",
+    "badminton"
+  ],
+  "subscribers": [
+    "6531281c9514dfe6f7a4b7be",
+    "653121ef9514dfe6f7a4b7b9",
+    "653129db9514dfe6f7a4b7bf",
+    "65312d9a9514dfe6f7a4b7c4"
+  ],
+  "following": [
+    "65312c209514dfe6f7a4b7c1",
+    "653127989514dfe6f7a4b7bd",
+    "65312c969514dfe6f7a4b7c2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65312d9a9514dfe6f7a4b7c4"
+  },
+  "firstName": "Klyment",
+  "lastName": "Koval",
+  "email": "klymentkoval@gmail.com",
+  "password": "KlymentKovalPass",
+  "interests": [
+    "drawing",
+    "boxing",
+    "hiking"
+  ],
+  "subscribers": [
+    "653121ef9514dfe6f7a4b7b9",
+    "65312c209514dfe6f7a4b7c1",
+    "65312e019514dfe6f7a4b7c5"
+  ],
+  "following": [
+    "65312b499514dfe6f7a4b7c0",
+    "653126de9514dfe6f7a4b7bc",
+    "65312d2a9514dfe6f7a4b7c3"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65312e019514dfe6f7a4b7c5"
+  },
+  "firstName": "Theofii",
+  "lastName": "Tkach",
+  "email": "theofiitkach@gmail.com",
+  "password": "TheofiiTkachPass",
+  "interests": [
+    "drawing",
+    "boxing",
+    "hiking",
+    "cooking"
+  ],
+  "subscribers": [
+    "653122ed9514dfe6f7a4b7ba",
+    "65312c209514dfe6f7a4b7c1",
+    "65312b499514dfe6f7a4b7c0"
+  ],
+  "following": [
+    "653126de9514dfe6f7a4b7bc",
+    "65312c209514dfe6f7a4b7c1",
+    "65312d9a9514dfe6f7a4b7c4"
+  ]
+}]
